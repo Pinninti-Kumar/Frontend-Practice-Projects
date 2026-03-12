@@ -7,7 +7,6 @@ This repository contains small projects created while learning **front-end web d
 * HTML
 * CSS
 * JavaScript
-* Git & GitHub
 
 ## Projects
 
