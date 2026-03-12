@@ -1,21 +1,28 @@
-# Frontend Practice Projects
+# Simple Frontend Project
 
-This repository contains small projects created while learning **front-end web development**. These projects help me practice building simple and responsive web interfaces.
+This is a basic frontend web project built using HTML, CSS, and JavaScript.
+The purpose of this project is to practice creating simple web interfaces and improving front-end development skills.
 
-## Technologies
+## Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 
-## Projects
+## Project Structure
 
-* **Login Page** – A simple responsive login page UI
-* **JavaScript Video Player** – A basic custom video player
-* **Multi-language Website** – A website with language translation support
+index.html – Main structure of the webpage
+style.css – Styling and layout of the webpage
+script.js – JavaScript functionality for the webpage
 
-More projects will be added as I continue learning and improving my skills.
+## How to Run the Project
 
-## Goal
+1. Download or clone the project.
+2. Open the project folder.
+3. Double click **index.html** or open it in a web browser.
 
-The goal of this repository is to improve my front-end development skills by building practical projects and gaining hands-on experience.
+The webpage will load in your browser.
+
+## Purpose
+
+This project was created for learning and practicing front-end development concepts.
