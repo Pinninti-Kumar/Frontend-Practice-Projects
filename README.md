@@ -1,4 +1,4 @@
-# Simple Frontend Project
+ Frontend Projects
 
 This is a basic frontend web project built using HTML, CSS, and JavaScript.
 The purpose of this project is to practice creating simple web interfaces and improving front-end development skills.
