@@ -1,4 +1,4 @@
- Frontend Projects
+ ##Frontend Projects
 
 This is a basic frontend web project built using HTML, CSS, and JavaScript.
 The purpose of this project is to practice creating simple web interfaces and improving front-end development skills.
@@ -15,7 +15,7 @@ index.html – Main structure of the webpage
 style.css – Styling and layout of the webpage
 script.js – JavaScript functionality for the webpage
 
-## How to Run the Project
+## Run
 
 1. Download or clone the project.
 2. Open the project folder.
@@ -23,6 +23,4 @@ script.js – JavaScript functionality for the webpage
 
 The webpage will load in your browser.
 
-## Purpose
 
-This project was created for learning and practicing front-end development concepts.
